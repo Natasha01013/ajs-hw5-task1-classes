@@ -1,5 +1,5 @@
 # CI Test demo
-
+[![Build status](https://ci.appveyor.com/api/projects/status/ihm7byeqsa9ktn2o?svg=true)](https://ci.appveyor.com/project/Natasha01013/hw5-task1-classes)
 
 # Домашнее задание к лекции «Классы, наследование»
 ## Задача. 1 Классы, наследование
