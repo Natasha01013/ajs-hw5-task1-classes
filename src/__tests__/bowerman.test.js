@@ -1,4 +1,4 @@
-import { Bowerman } from "../Bowerman";
+import { Bowerman } from "../bowerman";
 
 test("check Bowerman", ()=> {
     const b = new Bowerman('Ivan');
